@@ -125,14 +125,6 @@ Hi! I'm **Ranithu Dewage (RUSH)**, an aspiring AI Engineer passionate about buil
 
 ---
 
-## ✍️ Recent Articles & Write-ups
-
-- 📝 [Understanding Mechanisms and Defense Against Prompt Injection](#)
-- 📝 [Preventing Sensitive Data Leaks in RAG Systems](#)
-- 📝 [Setting up Secure Multi-Cloud Architectures](#)
-
----
-
 ## 📊 GitHub Statistics & Contributions
 
 <div align="center">
