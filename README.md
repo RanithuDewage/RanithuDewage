@@ -173,6 +173,11 @@ Hi! I'm **Ranithu Dewage (RUSH)**, an aspiring AI Engineer passionate about buil
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-000000?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/>
 </a>
+<p align="center">
+  <a href="https://my-portofolio-gold-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-F2711C?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
 
 <br/><br/>
 
